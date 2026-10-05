@@ -1,1 +1,1 @@
-print("[Combat Fighters] Client started via Rojo")
+print("[Survival RPG] Client started via Rojo")

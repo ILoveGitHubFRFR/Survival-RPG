@@ -1,1 +1,1 @@
-print("[Combat Fighters] Server started via Rojo")
+print("[Survival RPG] Server started via Rojo")
